@@ -8,11 +8,6 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I :heart: :dog:s
 
 
-📕 **Spotify Playings**
-&nbsp; <br> [![Spotify](https://spotifygithub-eta.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-
-
-
 ### Get In Touch
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/quegreen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jmonetwright/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/QueJGreen)  
 
