@@ -9,7 +9,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 📕 **Spotify Playings**
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://spotifygithub-eta.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
 
 
 ### Get In Touch
