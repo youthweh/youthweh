@@ -1,4 +1,4 @@
-### Hi I'm Fiona <a href="https://fiona-web-resume.web.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👩‍🦳</a>
+## Hi I'm Fiona <a href="https://fiona-web-resume.web.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working as **Project Management Officer at APRIL** :wink:
