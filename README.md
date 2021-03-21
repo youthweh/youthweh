@@ -26,7 +26,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 
-### 📕 Latest Blog Posts
+### 📕 Notes
 <!-- BLOG-POST-LIST:START -->
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
