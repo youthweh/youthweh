@@ -25,6 +25,4 @@ This is the place where I opensource stuff and break things :rofl:
 </p>
 
 ### Get In Touch
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/youthweh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fionastefanilimin/) 
-
 <a href="https://fiona-web-resume.web.app" target="blank"><img src="https://img.shields.io/badge/Website-Fiona's Portfolio-red?" /></a>
