@@ -22,10 +22,6 @@ This is the place where I opensource stuff and break things :rofl:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youthweh&layout=compact" height=180 />
 </p>
 
-### Get In Touch 
-
-
-
 ### 📕 Notes
 <!-- BLOG-POST-LIST:START -->
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
