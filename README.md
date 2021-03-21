@@ -7,14 +7,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [reach me via email](mailto:fiona16ti@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/fiona-stefani-limin/) 
 - ⚡ Fun fact: I :heart: Pizza 🍕:s
 
-### Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=youthweh&show_icons=true&include_all_commits=true&count_private=true" height=180 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youthweh&layout=compact" height=180 />
-</p>
-
-
-
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
@@ -23,6 +15,13 @@ This is the place where I opensource stuff and break things :rofl:
     <img src="https://img.shields.io/badge/IDE-AndroidStudio-blue?&logo=android" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
+
+### Stats:
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=youthweh&show_icons=true&include_all_commits=true&count_private=true" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youthweh&layout=compact" height=180 />
+</p>
+
 
 ### 📕 Notes
 <!-- BLOG-POST-LIST:START -->
