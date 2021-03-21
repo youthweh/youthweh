@@ -1,4 +1,4 @@
-### Hi I'm Fiona <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi I'm Fiona <a href="https://fiona-web-resume.web.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👩‍🦳</a>
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working as **Project Management Officer at APRIL** :wink:
@@ -22,9 +22,8 @@ This is the place where I opensource stuff and break things :rofl:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youthweh&layout=compact" height=180 />
 </p>
 
-### Get In Touch & References
-<a href="https://fiona-web-resume.web.app" target="blank"><img src="https://img.shields.io/badge/Website-Fiona's Portfolio-red?" /></a>
-<a href="https://education.github.com/git-cheat-sheet-education.pdf" target="blank"><img src="https://img.shields.io/badge/Website-Github Cheat Sheet-blue?" /></a>
+### Get In Touch 
+
 
 
 ### 📕 Latest Blog Posts
