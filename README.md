@@ -17,8 +17,6 @@ This is the place where I opensource stuff and break things :rofl:
 </p>
 
 ### Stats:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQueGreen&count_bg=%23733DC8&title_bg=%23B3A6A6&icon=github.svg&icon_color=%230E0D0D&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=youthweh&show_icons=true&include_all_commits=true&count_private=true" height=180 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youthweh&layout=compact" height=180 />
@@ -27,3 +25,10 @@ This is the place where I opensource stuff and break things :rofl:
 ### Get In Touch & References
 <a href="https://fiona-web-resume.web.app" target="blank"><img src="https://img.shields.io/badge/Website-Fiona's Portfolio-red?" /></a>
 <a href="https://education.github.com/git-cheat-sheet-education.pdf" target="blank"><img src="https://img.shields.io/badge/Website-Github Cheat Sheet-blue?" /></a>
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+<!-- BLOG-POST-LIST:END -->
