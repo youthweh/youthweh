@@ -24,5 +24,6 @@ This is the place where I opensource stuff and break things :rofl:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youthweh&layout=compact" height=180 />
 </p>
 
-### Get In Touch
+### Get In Touch & References
 <a href="https://fiona-web-resume.web.app" target="blank"><img src="https://img.shields.io/badge/Website-Fiona's Portfolio-red?" /></a>
+<a href="https://education.github.com/git-cheat-sheet-education.pdf" target="blank"><img src="https://img.shields.io/badge/Website-Github Cheat Sheet-blue?" /></a>
